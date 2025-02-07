@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey10&pause=2000&color=EBDBB2&background=FF000000&center=true&width=446&lines=Welcome!;%F0%9F%AB%8E" alt="Typing SVG" /></a></h1>
 
-<!--
-**wenrir/wenrir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux) 
 
-Here are some ideas to get you started:
+Private github profile, work account kept seperate for reasons...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Work mainly looks like this: 
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+
+But I'd like it to look like this:
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/zig/zig.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/lisp/lisp.png"></code>
